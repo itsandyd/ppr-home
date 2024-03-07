@@ -1,88 +1,88 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: "ai-tools",
+    imgUrl: "/pprai.jpg", // Ensure you have an appropriate image for AI tools
+    title: "AI Music Studio",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: "learning-platform",
+    imgUrl: "/pprlearn.jpg", // Ensure you have an appropriate image for the learning platform
+    title: "Learning Hub",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: "coaching-sessions",
+    imgUrl: "/pprcoach.jpg", // Ensure you have an appropriate image for coaching sessions
+    title: "One-on-One Coaching",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: "community-hub",
+    imgUrl: "/pprcommunity.jpg", // Ensure you have an appropriate image for the community hub
+    title: "Music Producer Community",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: "music-showcase",
+    imgUrl: "/pprmusic.jpg", // Ensure you have an appropriate image for music showcase
+    title: "Showcase & Promotion",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Access cutting-edge AI tools to revolutionize your music production",
+  "Expand your knowledge with extensive courses and tutorials",
+  "Connect and collaborate with a global community of music producers",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/sample-generation.svg",
+    title: "New Sample Generation",
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      "Explore endless possibilities with our latest AI-driven sample generation feature.",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/lyric-crafting.svg",
+    title: "Advanced Lyric Crafting",
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "Craft the perfect lyrics for your music with our enhanced AI lyricist tools.",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/music-production-tips.png",
+    title: "Music Production Tips & Tricks",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Discover insider tips and strategies to enhance your music production workflow.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/sound-design.png",
+    title: "Mastering Sound Design",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Dive deep into the art of sound design with our comprehensive guides and tutorials.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/community-insights.png",
+    title: "Community Insights & Highlights",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Learn from the collective wisdom of our music producer community and their success stories.",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
